@@ -13,7 +13,7 @@
 
 每一個 fold 的 **precision, recall** 以及 **F1-score** 等指標已存入 **five_fold_per_class_metrics.csv**    
 每一個 fold 的混淆矩陣已存入 **five_fold_confusion_matrix.csv**    
-每一個 fold 的訓練權重已存入 **best_dinov2_fold_n.pth**    
+
 
 
    
