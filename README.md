@@ -22,8 +22,7 @@ https://aidata.nchu.edu.tw/smarter/zh_Hant_TW/dataset/smarter_04_r14088_0_rice_2
 6. lr_scheduler_type: linear
 7. criterion = CrossEntropyLoss()
 8. batchsize = 16
-
-每一個 fold 的 **precision, recall** 以及 **F1-score** 等指標已存入 **five_fold_per_class_metrics.csv**    
+   
 
 
 
